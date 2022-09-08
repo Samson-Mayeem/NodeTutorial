@@ -1,0 +1,8 @@
+POST http://localhost:5000/car
+Content-Type: application/json
+
+{
+    "name":"Nissan",
+    "model": "20230",
+    "size": "2"
+}
